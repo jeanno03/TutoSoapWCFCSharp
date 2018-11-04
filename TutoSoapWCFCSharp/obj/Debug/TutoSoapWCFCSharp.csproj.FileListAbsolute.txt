@@ -1,0 +1,7 @@
+C:\Users\P5QDTurbo-W7\source\repos\TutoSoapWCFCSharp\TutoSoapWCFCSharp\bin\TutoSoapWCFCSharp.dll.config
+C:\Users\P5QDTurbo-W7\source\repos\TutoSoapWCFCSharp\TutoSoapWCFCSharp\bin\TutoSoapWCFCSharp.dll
+C:\Users\P5QDTurbo-W7\source\repos\TutoSoapWCFCSharp\TutoSoapWCFCSharp\bin\TutoSoapWCFCSharp.pdb
+C:\Users\P5QDTurbo-W7\source\repos\TutoSoapWCFCSharp\TutoSoapWCFCSharp\obj\Debug\TutoSoapWCFCSharp.csprojAssemblyReference.cache
+C:\Users\P5QDTurbo-W7\source\repos\TutoSoapWCFCSharp\TutoSoapWCFCSharp\obj\Debug\TutoSoapWCFCSharp.csproj.CoreCompileInputs.cache
+C:\Users\P5QDTurbo-W7\source\repos\TutoSoapWCFCSharp\TutoSoapWCFCSharp\obj\Debug\TutoSoapWCFCSharp.dll
+C:\Users\P5QDTurbo-W7\source\repos\TutoSoapWCFCSharp\TutoSoapWCFCSharp\obj\Debug\TutoSoapWCFCSharp.pdb
